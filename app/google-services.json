@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "995268723280",
+    "firebase_url": "https://srijan-chat-608e8.firebaseio.com",
+    "project_id": "srijan-chat-608e8",
+    "storage_bucket": "srijan-chat-608e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995268723280:android:751b69695b9307ac",
+        "android_client_info": {
+          "package_name": "com.android.shahryar.srijanchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995268723280-vbcu77vgs8beigpr4j18tttdbju3klvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.shahryar.srijanchat",
+            "certificate_hash": "3f82babb059e29e2fe15a05abf0b9ef5004a79a0"
+          }
+        },
+        {
+          "client_id": "995268723280-4d21u2lscgdem2v8a4ggh5n1k8nnf6oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrCOMWORuWslj6r7uQpQfp430av4TsZcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995268723280-4d21u2lscgdem2v8a4ggh5n1k8nnf6oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
